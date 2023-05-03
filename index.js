@@ -5,7 +5,6 @@ const port = process.env.PORT || 3000
 const cors = require('cors')
 app.use(cors())
 
-const chefs = require('./chefs.json')
 
 app.get('/', (req, res) => {
     res.send('Hello World!!!')
