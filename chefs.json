@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "picture": "/images/chefs/chef1.jpg",
+        "name": "Satoshi Nakamoto",
+        "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
+        "likes": 125,
+        "recipes_count": 10,
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "image": "/images/chefs/sushirolls.jpg",
+                "name": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "avocado",
+                    "cucumber",
+                    "cooked shrimp"
+                ],
+                "cooking_method": "1. Cook the rice and season with rice vinegar. 2. Lay the nori seaweed on a sushi mat. 3. Spread the rice on the nori, leaving a small border at the top. 4. Add the fillings and roll up the sushi. 5. Slice and serve with soy sauce and wasabi.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/beefteriyaki.jpg",
+                "name": "Beef Teriyaki",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "mirin",
+                    "sake",
+                    "brown sugar"
+                ],
+                "cooking_method": "1. Marinate the beef in the soy sauce, mirin, sake, and brown sugar. 2. Grill the beef until cooked to your liking. 3. Serve with steamed rice and vegetables.",
+                "rating": 4.8
+            },
+            {
+                "image": "/images/chefs/TempuraShrimp.jpg",
+                "name": "Tempura Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "flour",
+                    "cornstarch",
+                    "cold water",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Mix the flour, cornstarch, and cold water to make a batter. 2. Dip the shrimp in the batter and deep-fry in hot oil until golden brown. 3. Serve with soy sauce and grated daikon.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "/images/chefs/chef2.jpg",
+        "name": "Takashi Yamamoto",
+        "bio": "Chef Takashi Yamamoto is a master of traditional Japanese cuisine, with over 25 years of experience. He has trained under some of the most renowned chefs in Japan and is known for his delicate and precise preparation techniques.",
+        "likes": 300,
+        "recipes_count": 10,
+        "years_of_experience": 25,
+        "recipes": [
+            {
+                "image": "/images/chefs/SushiRolls.jpg",
+                "name": "Sushi Roll",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "tuna",
+                    "avocado",
+                    "cucumber"
+                ],
+                "cooking_method": "1. Cook the sushi rice and let it cool. 2. Place a sheet of nori seaweed on a bamboo mat. 3. Spread the rice on the nori, leaving a small border at the top. 4. Add the tuna, avocado, and cucumber in a line. 5. Roll the sushi tightly using the bamboo mat. 6. Cut the sushi roll into slices.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/MisoSoup.jpg",
+                "name": "Miso Soup",
+                "ingredients": [
+                    "dashi stock",
+                    "miso paste",
+                    "tofu",
+                    "seaweed",
+                    "scallions"
+                ],
+                "cooking_method": "1. Bring the dashi stock to a boil. 2. Add the miso paste and stir until dissolved. 3. Add the tofu, seaweed, and scallions. 4. Simmer for a few minutes until everything is heated through.",
+                "rating": 4.2
+            },
+            {
+                "image": "/images/chefs/Tempura.jpg",
+                "name": "Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "flour",
+                    "cornstarch",
+                    "egg",
+                    "cold water"
+                ],
+                "cooking_method": "1. Make a batter by mixing the flour, cornstarch, egg, and cold water. 2. Dip the shrimp in the batter. 3. Fry the shrimp in hot oil until golden brown. 4. Serve with soy sauce.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "/images/chefs/chef3.jpg",
+        "name": "Yoshihiro Murata",
+        "bio": "Yoshihiro Murata is a third-generation owner and chef of Kikunoi, a Kyoto-based kaiseki restaurant that has been in his family for more than 100 years. He is known for his innovative take on traditional Japanese cuisine and has won multiple Michelin stars. ",
+        "likes": 1200,
+        "recipes_count": 50,
+        "years_of_experience": 30,
+        "recipes": [
+            {
+                "image": "/images/chefs/GrilledWagyu.jpg",
+                "name": "Grilled Wagyu Beef with Soy Sauce Glaze",
+                "ingredients": [
+                    "500g Wagyu beef",
+                    "2 tbsp soy sauce",
+                    "2 tbsp mirin",
+                    "1 tbsp sake",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "1. Mix the soy sauce, mirin, sake, and sugar in a small bowl to make the glaze. \n2. Heat the vegetable oil in a skillet over medium-high heat. \n3. Add the beef and cook for 2-3 minutes on each side. \n4. Brush the glaze onto the beef and cook for another 30 seconds on each side, until the glaze is caramelized. \n5. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/MisoMarinated.jpg",
+                "name": "Miso-Marinated Black Cod",
+                "ingredients": [
+                    "4 black cod fillets",
+                    "1/2 cup white miso paste",
+                    "1/4 cup sake",
+                    "1/4 cup mirin",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "1. Mix the miso paste, sake, mirin, sugar, and sesame oil in a small bowl to make the marinade. \n2. Place the black cod fillets in a shallow dish and pour the marinade over them. \n3. Cover the dish with plastic wrap and refrigerate for at least 24 hours. \n4. Preheat the oven to 400°F. \n5. Remove the fish from the marinade and wipe off any excess. \n6. Bake the fish for 15-20 minutes, until it flakes easily with a fork. \n7. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "image": "/images/chefs/ChickenTeriyaki.jpg",
+                "name": "Chicken Teriyaki",
+                "ingredients": [
+                    "4 boneless chicken thighs",
+                    "1/2 cup soy sauce",
+                    "1/4 cup mirin",
+                    "1/4 cup sake",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "1. Mix the soy sauce, mirin, sake, and sugar in a small bowl to make the sauce. \n2. Heat the vegetable oil in a skillet over medium-high heat. \n3. Add the chicken and cook for 4-5 minutes on each side. \n4. Add the sauce to the skillet and cook for another 2-3 minutes, until the chicken is fully cooked and the sauce is thickened. \n5. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "/images/chefs/chef4.jpg",
+        "name": "Masaharu Morimoto",
+        "bio": "Masaharu Morimoto is a Japanese chef, best known as an Iron Chef on the Japanese TV show Iron Chef and its spinoff Iron Chef America. He is also known for his unique fusion of Japanese and Western cuisine.",
+        "likes": 12000,
+        "recipes_count": 12,
+        "years_of_experience": 30,
+        "recipes": [
+            {
+                "image": "/images/chefs/TunaTartare.jpg",
+                "name": "Tuna Tartare",
+                "ingredients": [
+                    "1/2 pound sushi-grade tuna, chopped",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped avocado",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon sesame oil"
+                ],
+                "cooking_method": "In a medium bowl, mix the tuna, scallions, avocado, soy sauce, sesame oil, lemon juice, ginger, and wasabi paste. Serve immediately with crackers or toast points.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/PorkGyoza.jpg",
+                "name": "Pork Gyoza",
+                "ingredients": [
+                    "1/2 pound ground pork",
+                    "2 cups chopped Napa cabbage",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon sesame oil"
+                ],
+                "cooking_method": "In a large bowl, mix the pork, cabbage, garlic, soy sauce, sesame oil, ginger, salt, and pepper. Spoon a small amount of the mixture onto each gyoza wrapper. Moisten the edges with water and fold in half, pressing the edges to seal. Heat a large skillet over medium-high heat and add the gyoza. Cook for 2-3 minutes on each side, until golden brown. Serve hot with soy sauce for dipping.",
+                "rating": 4.8
+            },
+            {
+                "image": "/images/chefs/MatchaIce.jpg",
+                "name": "Matcha Ice Cream",
+                "ingredients": [
+                    "2 cups heavy cream",
+                    "1 cup whole milk",
+                    "3/4 cup granulated sugar",
+                    "2 tablespoons matcha powder",
+                    "1/4 teaspoon salt"
+                ],
+                "cooking_method": "In a large saucepan, combine the cream, milk, sugar, matcha powder, and salt. Heat over medium heat, stirring occasionally, until the mixture reaches 175°F. In a separate bowl, whisk together the egg yolks and vanilla extract. Slowly add 1 cup of the hot cream mixture to the egg yolks, whisking constantly. Pour the egg mixture back into the saucepan with the remaining cream mixture and cook over medium-low heat, stirring constantly, until the mixture thickens and coats the back of a spoon. Strain the mixture through a fine-mesh sieve and chill in the refrigerator for at least 4 hours, or overnight. Churn in an ice cream maker according to the manufacturer's instructions.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "/images/chefs/chef5.jpg",
+        "name": "Takeshi Yamaoka",
+        "bio": "Takeshi Yamaoka is a renowned chef and restaurateur based in Tokyo. He specializes in traditional Japanese cuisine and has been in the culinary industry for over 20 years.",
+        "likes": 1200,
+        "recipes_count": 10,
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "image": "/images/chefs/Sushi.jpg",
+                "name": "Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "nori",
+                    "fish",
+                    "wasabi",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Cook sushi rice and cool. 2. Cut fish into small pieces. 3. Place nori on bamboo mat. 4. Add rice, fish, and other desired ingredients. 5. Roll and cut into pieces. 6. Serve with wasabi and soy sauce.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/Ramen.jpg",
+                "name": "Ramen",
+                "ingredients": [
+                    "ramen noodles",
+                    "chicken broth",
+                    "pork belly",
+                    "eggs",
+                    "green onions"
+                ],
+                "cooking_method": "1. Cook ramen noodles and drain. 2. Cook pork belly until crispy. 3. Boil eggs to desired consistency. 4. Heat chicken broth. 5. Add noodles, pork, eggs, and green onions to broth. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "image": "/images/chefs/Tempura.jpg",
+                "name": "Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "vegetables",
+                    "flour",
+                    "cornstarch",
+                    "ice water"
+                ],
+                "cooking_method": "1. Mix flour, cornstarch, and ice water to make batter. 2. Dip shrimp and vegetables in batter. 3. Fry in hot oil until golden brown. 4. Serve hot with dipping sauce.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "/images/chefs/chef6.jpg",
+        "name": "Giovanni Rossi",
+        "bio": "Giovanni is a third-generation Italian chef who learned to cook from his grandmother in Naples. He is passionate about bringing authentic Italian flavors to the world.",
+        "likes": 1245,
+        "recipes_count": 35,
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "image": "/images/chefs/spaghettialla.jpg",
+                "name": "Spaghetti alla Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "pecorino romano cheese",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook spaghetti according to package instructions.\n2. Fry pancetta in a skillet over medium heat until crispy.\n3. Beat eggs and cheese in a bowl.\n4. Drain spaghetti and add it to the skillet with pancetta. Turn off heat.\n5. Add egg mixture to the skillet and toss until the spaghetti is coated.\n6. Season with black pepper and serve.",
+                "rating": 4.5
+            },
+            {
+                "image": "/images/chefs/MargheritaPizza.jpg",
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place it on a baking sheet.\n3. Spread tomato sauce on the dough, leaving a small border around the edges.\n4. Add sliced mozzarella cheese and basil leaves.\n5. Drizzle with olive oil.\n6. Bake for 12-15 minutes, or until the crust is golden and the cheese is melted.\n7. Slice and serve.",
+                "rating": 4.7
+            },
+            {
+                "image": "/images/chefs/Tiramisu.jpg",
+                "name": "Tiramisu",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "mascarpone cheese",
+                    "eggs",
+                    "sugar"
+                ],
+                "cooking_method": "1. Brew espresso and let it cool.\n2. Beat egg yolks and sugar in a bowl until creamy.\n3. Add mascarpone cheese and beat until smooth.\n4. Beat egg whites until stiff peaks form.\n5. Gently fold egg whites into the mascarpone mixture.\n6. Dip ladyfingers into the espresso and place them in a single layer in a dish.\n7. Spread a layer of mascarpone mixture on top of the ladyfingers.\n8. Repeat layers until all ingredients are used, ending with a layer of mascarpone.\n9. Chill for at least 2 hours.\n10. Dust with cocoa powder and serve.",
+                "rating": 4.9
+            }
+        ]
+    }
+]
