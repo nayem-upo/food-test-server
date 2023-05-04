@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "/images/chefs/chef1.jpg",
+        "picture": "https://i.ibb.co/vx6MtNt/chef1.png",
         "name": "Satoshi Nakamoto",
         "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
         "likes": 125,
@@ -9,7 +9,7 @@
         "years_of_experience": 20,
         "recipes": [
             {
-                "image": "/images/chefs/sushirolls.jpg",
+                "image": "https://i.ibb.co/Sv5MpGJ/sushirolls.jpg",
                 "name": "Sushi Rolls",
                 "ingredients": [
                     "sushi rice",
@@ -22,7 +22,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/beefteriyaki.jpg",
+                "image": "https://i.ibb.co/9Hb6jDC/beefteriyaki.webp",
                 "name": "Beef Teriyaki",
                 "ingredients": [
                     "beef sirloin",
@@ -35,7 +35,7 @@
                 "rating": 4.8
             },
             {
-                "image": "/images/chefs/TempuraShrimp.jpg",
+                "image": "https://i.ibb.co/sqjk0b5/tempurashrimp.jpg",
                 "name": "Tempura Shrimp",
                 "ingredients": [
                     "shrimp",
@@ -51,7 +51,7 @@
     },
     {
         "id": 2,
-        "picture": "/images/chefs/chef2.jpg",
+        "picture": "https://i.ibb.co/GptpDWy/chef2.png",
         "name": "Takashi Yamamoto",
         "bio": "Chef Takashi Yamamoto is a master of traditional Japanese cuisine, with over 25 years of experience. He has trained under some of the most renowned chefs in Japan and is known for his delicate and precise preparation techniques.",
         "likes": 300,
@@ -59,7 +59,7 @@
         "years_of_experience": 25,
         "recipes": [
             {
-                "image": "/images/chefs/SushiRolls.jpg",
+                "image": "https://i.ibb.co/Sv5MpGJ/sushirolls.jpg",
                 "name": "Sushi Roll",
                 "ingredients": [
                     "sushi rice",
@@ -72,7 +72,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/MisoSoup.jpg",
+                "image": "https://i.ibb.co/Vqd8KxN/misosoup.jpg",
                 "name": "Miso Soup",
                 "ingredients": [
                     "dashi stock",
@@ -85,7 +85,7 @@
                 "rating": 4.2
             },
             {
-                "image": "/images/chefs/Tempura.jpg",
+                "image": "https://i.ibb.co/Z8jfS54/tempura.jpg",
                 "name": "Tempura",
                 "ingredients": [
                     "shrimp",
@@ -101,7 +101,7 @@
     },
     {
         "id": 3,
-        "picture": "/images/chefs/chef3.jpg",
+        "picture": "https://i.ibb.co/cDZxCnf/chef3.png",
         "name": "Yoshihiro Murata",
         "bio": "Yoshihiro Murata is a third-generation owner and chef of Kikunoi, a Kyoto-based kaiseki restaurant that has been in his family for more than 100 years. He is known for his innovative take on traditional Japanese cuisine and has won multiple Michelin stars. ",
         "likes": 1200,
@@ -109,7 +109,7 @@
         "years_of_experience": 30,
         "recipes": [
             {
-                "image": "/images/chefs/GrilledWagyu.jpg",
+                "image": "https://i.ibb.co/jbZdrg0/grilledwagyu.jpg",
                 "name": "Grilled Wagyu Beef with Soy Sauce Glaze",
                 "ingredients": [
                     "500g Wagyu beef",
@@ -122,7 +122,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/MisoMarinated.jpg",
+                "image": "https://i.ibb.co/zZjH5x4/misomarinated.jpg",
                 "name": "Miso-Marinated Black Cod",
                 "ingredients": [
                     "4 black cod fillets",
@@ -135,7 +135,7 @@
                 "rating": 4.8
             },
             {
-                "image": "/images/chefs/ChickenTeriyaki.jpg",
+                "image": "https://i.ibb.co/37FTjYy/chickenteriyaki.jpg",
                 "name": "Chicken Teriyaki",
                 "ingredients": [
                     "4 boneless chicken thighs",
@@ -151,7 +151,7 @@
     },
     {
         "id": 4,
-        "picture": "/images/chefs/chef4.jpg",
+        "picture": "https://i.ibb.co/mSzGwdt/chef4.png",
         "name": "Masaharu Morimoto",
         "bio": "Masaharu Morimoto is a Japanese chef, best known as an Iron Chef on the Japanese TV show Iron Chef and its spinoff Iron Chef America. He is also known for his unique fusion of Japanese and Western cuisine.",
         "likes": 12000,
@@ -159,7 +159,7 @@
         "years_of_experience": 30,
         "recipes": [
             {
-                "image": "/images/chefs/TunaTartare.jpg",
+                "image": "https://i.ibb.co/DzTTNy9/tunatartare.jpg",
                 "name": "Tuna Tartare",
                 "ingredients": [
                     "1/2 pound sushi-grade tuna, chopped",
@@ -172,7 +172,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/PorkGyoza.jpg",
+                "image": "https://i.ibb.co/8mDq992/porkgyoza.jpg",
                 "name": "Pork Gyoza",
                 "ingredients": [
                     "1/2 pound ground pork",
@@ -185,7 +185,7 @@
                 "rating": 4.8
             },
             {
-                "image": "/images/chefs/MatchaIce.jpg",
+                "image": "https://i.ibb.co/WBwstdb/matchaice.jpg",
                 "name": "Matcha Ice Cream",
                 "ingredients": [
                     "2 cups heavy cream",
@@ -201,7 +201,7 @@
     },
     {
         "id": 5,
-        "picture": "/images/chefs/chef5.jpg",
+        "picture": "https://i.ibb.co/DzM68bY/chef5.png",
         "name": "Takeshi Yamaoka",
         "bio": "Takeshi Yamaoka is a renowned chef and restaurateur based in Tokyo. He specializes in traditional Japanese cuisine and has been in the culinary industry for over 20 years.",
         "likes": 1200,
@@ -209,7 +209,7 @@
         "years_of_experience": 20,
         "recipes": [
             {
-                "image": "/images/chefs/Sushi.jpg",
+                "image": "https://i.ibb.co/K5ny5DP/sushi.jpg",
                 "name": "Sushi",
                 "ingredients": [
                     "sushi rice",
@@ -222,7 +222,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/Ramen.jpg",
+                "image": "https://i.ibb.co/Nn9Z7MB/ramen.jpg",
                 "name": "Ramen",
                 "ingredients": [
                     "ramen noodles",
@@ -235,7 +235,7 @@
                 "rating": 4.8
             },
             {
-                "image": "/images/chefs/Tempura.jpg",
+                "image": "https://i.ibb.co/Z8jfS54/tempura.jpg",
                 "name": "Tempura",
                 "ingredients": [
                     "shrimp",
@@ -251,7 +251,7 @@
     },
     {
         "id": 6,
-        "picture": "/images/chefs/chef6.jpg",
+        "picture": "https://i.ibb.co/bQYZqfC/chef6.png",
         "name": "Giovanni Rossi",
         "bio": "Giovanni is a third-generation Italian chef who learned to cook from his grandmother in Naples. He is passionate about bringing authentic Italian flavors to the world.",
         "likes": 1245,
@@ -259,7 +259,7 @@
         "years_of_experience": 20,
         "recipes": [
             {
-                "image": "/images/chefs/spaghettialla.jpg",
+                "image": "https://i.ibb.co/pf1ZW54/spaghettialla.jpg",
                 "name": "Spaghetti alla Carbonara",
                 "ingredients": [
                     "spaghetti",
@@ -272,7 +272,7 @@
                 "rating": 4.5
             },
             {
-                "image": "/images/chefs/MargheritaPizza.jpg",
+                "image": "https://i.ibb.co/BjCVBkV/margheritapizza.webp",
                 "name": "Margherita Pizza",
                 "ingredients": [
                     "pizza dough",
@@ -285,7 +285,7 @@
                 "rating": 4.7
             },
             {
-                "image": "/images/chefs/Tiramisu.jpg",
+                "image": "https://i.ibb.co/cXkhWDd/tiramisu.jpg",
                 "name": "Tiramisu",
                 "ingredients": [
                     "ladyfingers",
